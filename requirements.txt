@@ -1,0 +1,7 @@
+##------requirements.txt
+--import meduls
+(1)- request
+(2)- smtplib
+(3)-Time
+(4)- bs4 import beautifuleSoup
+(5)-schedule
